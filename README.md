@@ -1,6 +1,6 @@
 <h2> My Linux dotfiles for GNOME DE</h2>
 <img src="https://imgur.com/B8mOV3x"/>
-<img src="https://imgur.com/8gpfVd5"/>
+![Imgur](https://imgur.com/8gpfVd5)
 <h4>Terminal: <a href="https://sw.kovidgoyal.net/kitty/">kitty</a></h4>
 <h4>Shell: <a href="https://fishshell.com/">fish</a></h4>
 <h4>Tweaks:</h4>
