@@ -1,4 +1,6 @@
 <h2> My Linux dotfiles for GNOME DE</h2>
+file:///home/zied/Videos/Screenshot%20from%202023-10-23%2010-04-34.png
+
 <h4>Terminal: <a href="https://sw.kovidgoyal.net/kitty/">kitty</a></h4>
 <h4>Shell: <a href="https://fishshell.com/">fish</a></h4>
 <h4>Tweaks:</h4>
