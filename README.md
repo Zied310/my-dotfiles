@@ -3,6 +3,7 @@
 <img src="https://i.imgur.com/8gpfVd5.png"/>
 <h4>Terminal: <a href="https://sw.kovidgoyal.net/kitty/">kitty</a></h4>
 <h4>Shell: <a href="https://fishshell.com/">fish</a></h4>
+<h4>Menu: <a href="https://github.com/davatorium/rofi"><h4>
 <h4>Tweaks:</h4>
 <ul>
   <li>
