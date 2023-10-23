@@ -13,7 +13,7 @@
     <b>Icons Theme:</b> <a href="https://github.com/numixproject/numix-icon-theme-circle">Numix-Circle</a>
   </li>
   <li>
-      <b>Cursor:</b><a href="https://www.gnome-look.org/p/1393084/">Sweet Cursors</a>
+      <b>Cursor:</b> <a href="https://www.gnome-look.org/p/1393084/">Sweet Cursors</a>
   </li>
 </ul>
 
