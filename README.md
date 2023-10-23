@@ -1,6 +1,5 @@
 <h2> My Linux dotfiles for GNOME DE</h2>
-!['o' output](https://i.imgur.com/B8mOV3x.png)
-!['o' output](https://i.imgur.com/8gpfVd5.png)
+<img src="https://i.imgur.com/B8mOV3x.png"/>
 <h4>Terminal: <a href="https://sw.kovidgoyal.net/kitty/">kitty</a></h4>
 <h4>Shell: <a href="https://fishshell.com/">fish</a></h4>
 <h4>Tweaks:</h4>
